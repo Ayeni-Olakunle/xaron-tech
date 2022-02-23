@@ -4,7 +4,7 @@ function SignUpImage(props) {
   return (
     <div>
       <div className="HoldDeliverMan">
-        <div className="logoImage">Logo</div>
+        <div className="logoImage">Company Logo</div>
         <div>
           <img
             src={props.DeliveryMan}
