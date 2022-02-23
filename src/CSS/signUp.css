@@ -1,0 +1,178 @@
+.partner {
+  width: fit-content;
+  border: 2px solid #d4d4d4;
+  padding: 50px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.partner:hover {
+  width: fit-content;
+  border: 2px solid #3eb7bf;
+  padding: 50px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.holdSign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 90px;
+}
+
+.holdSignTwo {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 60%;
+}
+.log {
+  color: #3eb7bf;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.Linkme {
+  text-decoration: none;
+  color: black;
+}
+.Linkme:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.fauserPlus {
+  font-size: 60px;
+  color: #40b8bf;
+}
+
+.HoldDeliverMan {
+  height: 100vh;
+  width: 100%;
+}
+
+.deliverMan {
+  height: 100vh;
+  width: 100%;
+}
+
+.logoImage {
+  position: absolute;
+  color: white;
+  padding: 10px 30px;
+  font-size: 30px;
+}
+
+.holdSignPartner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  /* height: 100vh; */
+}
+
+.imageWid {
+  width: 70%;
+}
+
+.inputWid {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* height: 100vh; */
+}
+
+.greaterThan {
+  font-size: 8px;
+}
+
+.formWidth {
+  width: 70%;
+  text-align: left;
+  background-color: white;
+  padding: 15px 40px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px #d8d8d863, -10px -10px 20px #d8d8d863;
+  height: auto;
+}
+
+.asAClient {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.alreadyAcc {
+  color: gray;
+  margin: 0;
+  font-size: 12px;
+}
+.alreadyAcc2 {
+  color: #40b8bf;
+}
+
+.butMe {
+  width: 100% !important;
+  background-color: #40b8bf !important;
+  border: 1px solid #40b8bf !important;
+}
+
+.cimppath {
+  width: 100%;
+  /* background-color: #40b8bf;
+  clip-path: polygon(0 0, 0% 100%, 100% 100%); */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputHeight {
+  height: 30px;
+  font-size: 14px;
+}
+
+.inputText {
+  font-size: 14px;
+}
+
+.signUpClint {
+  text-decoration: underline;
+  color: #074e52;
+  font-weight: bold;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.form-select:focus {
+  border-color: #40b8bf !important;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem #40b8bf52 !important;
+}
+
+.form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #40b8bf !important;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem #40b8bf52 !important;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #40b8bf;
+  text-decoration: none;
+}
+
+.asAClient2 {
+  text-align: right;
+  margin-bottom: 10px;
+}
